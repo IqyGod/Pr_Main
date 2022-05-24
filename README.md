@@ -11,7 +11,7 @@ front end :
 back end : 
 - Timestamp Microservice
 - Hearder Parser Microservice
-- Pending
+- URL Shortener Microservice
 
 Excel :
 - Interactive Dashboards => pivot / charts / filters / slicers / vlookup
