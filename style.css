@@ -154,7 +154,7 @@ img {
 }
 #text3 a:hover {
   text-decoration: underline;
-  color: black;
+  color: #6a1b9a;
 }
 
 #content4 {
@@ -165,8 +165,6 @@ img {
   width: 100%;
   height: 80vh;
   background-color: #fce4ec;
-  margin-top: 70px;
-  margin-bottom: 250px;
 }
 
 #content4 a:hover {
@@ -174,6 +172,17 @@ img {
   color: #880e4f;
 }
 
+#content5 {
+  margin-top: 50px;
+  margin-bottom: 250px;
+}
+#text5 {
+ text-align: right;
+}
+#text5 a:hover {
+  text-decoration: underline;
+  color: #4527a0;
+}
 
 /* Contact section */
 
